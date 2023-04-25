@@ -13,7 +13,8 @@
     "rules": {
         "linebreak-style": 0,
         "semi": ["error", "always", { "omitLastInOneLineBlock": true}],
-        "comma-dangle": ["error", "only-multiline"]
+        "comma-dangle": ["error", "only-multiline"],
+        "no-console": "off"
     }
     
 }
